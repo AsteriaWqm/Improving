@@ -1,5 +1,4 @@
 from django.shortcuts import render,redirect
-from django.http import HttpResponse
 from lists.models import Item,List
 
 # Create your views here.
